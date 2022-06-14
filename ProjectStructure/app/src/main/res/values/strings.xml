@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ProjectStructure</string>
+    <string name="first_chain">Yes</string>
+    <string name="second_chain">No</string>
+    <string name="third_chain">Maybe</string>
+</resources>
